@@ -1,0 +1,101 @@
+company_name,notes
+Granite Works Limited,Baseline
+GRANITE WORKS LTD,Uppercase
+Granite   Works  ltd.,Extra spaces
+Granite Works L.T.D.,Dotted suffix
+Granite WORKS ltd,Mixed case
+Granite Works ltd.,Period suffix
+Granite   WORKS   L.T.D.,Spaces + dots
+Granite Works L . T . D .,Spaced dots
+Granite-Works Ltd,Hyphenated
+Granite - Works Ltd,En dash
+GRanite Works LTD,Mixed caps
+Granite works limited,Lowercase word
+Granite Works LTD ,Trailing space
+ GRANITE WORKS LTD ,Leading/trailing spaces
+Granite  Works  L T D,Spaced letters
+Granite Works ltd ,Trailing space variant
+Granite  Works   ltd.,Extra spaces + period
+Granite Works L.T.D..,Double dots
+Granite  Works L . T . D .,Mixed spacing + dots
+Granite  Works  l t d,Lowercase spaced letters
+Granite Works (UK) Ltd,Parenthetical qualifier
+Granite Works ltd..,Trailing double dots
+Granite  Works   LIMITED,Shouted suffix
+GRANITE  WORKS  Limited,Upper + normal suffix
+GraniteWorks Ltd,No space in name
+Thistle Consulting LLP,Baseline
+Thistle Consulting L.L.P.,Dotted suffix
+THISTLE CONSULTING LLP,Uppercase
+Thistle consulting llp,Lowercase suffix
+Thistle   Consulting  L.L.P.,Extra spaces
+Thistle Consulting L. L. P.,Spaced dots
+Thistle Consulting LLP.,Trailing period
+ THISTLE  CONSULTING  LLP ,Leading/trailing + double spaces
+Thistle  Consulting   L.L.P..,Extra spaces + double dots
+Thistle Consulting L L P,Spaced letters
+Thistle  Consulting  L. L. P.,Mixed spaces + dots
+Thistle-Consulting LLP,Hyphenated
+Thistle - Consulting LLP,En dash
+THISTLE CONSULTING llp,Mixed case
+Thistle  CONSULTING  LLP,Wordcase mix
+Thistle Consulting(LLP),Parenthetical suffix tight
+Thistle Consulting ( L.L.P. ),Parenthetical dotted suffix
+Thistle  Consulting (LLP),Parenthetical suffix
+Thistle  Consulting  ( L L P ),Parenthetical spaced letters
+Thistle Consulting L.L.P .,Trailing space before dot
+Thistle   CONSULTING   L.L.P.,Shouted word + dots
+Thistle   ConsultinG   LLP,Random caps
+ThistleConsulting LLP,No space in name
+Thistle  C o n s u l t i n g  LLP,Letter spaced word
+Thistle Consulting L .L .P.,Misplaced dots
+Northbridge (Holdings) PLC,Baseline with parentheses
+Northbridge (Holdings) P.L.C.,Dotted suffix
+NORTHBRIDGE HOLDINGS PLC,Uppercase no parens
+Northbridge Holdings plc,Lowercase suffix
+Northbridge  (Holdings)   PLC,Extra spaces
+Northbridge (Holdings) plc.,Trailing period
+Northbridge (Holdings)  P L C,Spaced letters
+Northbridge (Holdings) P.L.C ..,Dotted + extra dots
+ NORTHBRIDGE (HOLDINGS) PLC ,Leading/trailing spaces
+Northbridge (Holdings)   P.L.C.,Mixed spacing
+Northbridge(Holdings) PLC,No space before parens
+Northbridge  ( Holdings ) PLC,Spaced inner parens
+Northbridge ( HOLDINGS )  P L C,Upper + spaced letters
+Northbridge - Holdings PLC,En dash no parens
+Northbridge-Holdings PLC,Hyphenated
+NORTHBRIDGE HOLDINGS P.L.C.,Uppercase dotted
+Northbridge  Holdings  plc,Extra spaces no parens
+Northbridge HOLDINGS plc,Mixed caps
+Northbridge  (Holdings)  P. L. C.,Dots between letters
+Northbridge (Holdings) PLC ,Trailing space
+North bridge (Holdings) PLC,Split base word
+Northbridge (Holdings) plc ..,Lowercase + extra dots
+Northbridge (HOLDINGS) plc,Upper paren word
+Northbridge (Holdings)  P  L  C,Wide spaced letters
+Northbridge  (Holdings) P.L.C.,Spaces before dotted
+Meridian Systems Limited,Baseline
+MERIDIAN SYSTEMS LTD,Uppercase
+Meridian Systems Ltd.,Period suffix
+Meridian   Systems   L.t.d.,Extra spaces + dotted
+Meridian Systems L.T.D.,Dotted suffix
+Meridian Systems ltd,Lowercase suffix
+ MERIDIAN  SYSTEMS  LIMITED ,Leading/trailing + spaces
+Meridian  Systems   LTD,Mixed spacing
+Meridian Systems LIMITED,Shouted suffix
+Meridian Systems  ltd.,Double spaces before suffix
+Meridian-Systems Ltd,Hyphenated
+Meridian - Systems Ltd,En dash
+Meridian  Systems L . T . D .,Spaced dots
+Meridian  Systems  L T D,Spaced letters
+Meridian Systems ltd ,Trailing space
+Meridian  SYSTEMS  L.T.D..,Upper word + double dots
+Meridian  Systems   L..T..D..,Over dotted
+Meridian Systems L T D,Spaced letters tight
+MERIDIAN systems ltd,Upper + lower mix
+Meridian systems LIMITED,Lower then shouted suffix
+Meridian  Systems  L.t.d.,Mixed dotted case
+MeridianSystems Ltd,No space in name
+Meridian  Systems ltd..,Lowercase + double dots
+Meridian   Systems  Limited,Extra spaces + full word
+MERIDIAN  SYSTEMS  L I M I T E D,Spaced letters full suffix
